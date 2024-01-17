@@ -8,8 +8,6 @@
 # Skills
 ### LANGUAGE
   ![Java](https://img.shields.io/badge/Java-3766AB?style=flat-square&logo=Java&logoColor=white)
-  ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
-  ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
   ![Python](https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat)
   
 
@@ -34,7 +32,7 @@
 
 ### IDE
   ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white)
-  ![Atom](https://img.shields.io/badge/Atom-66595C?style=flat-square&logo=Atom&logoColor=white)
+  ![Atom](https://img.shields.io/badge/Atom-66595C?style=flat-square&logo=Atom&logoColor=white)  
   ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&style=for-the-badge&logo=Visual%20Studio&logoColor=white)
   ![Visual Studio Code](http://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
   ![IntelliJ IDEA](https://img.shields.io/badge/Intellij%20IDEA-000000.svg?&style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white)
