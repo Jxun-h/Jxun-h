@@ -8,7 +8,7 @@
 # Skills
   ![C++](https://img.shields.io/badge/C++-blue.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white)
   <!-- ![Java](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white) -->
-<img src="https://img.shields.io/badge/Java-3766AB?style=flat-square&logo=Java&logoColor=white"/>
+
   ![Java](https://img.shields.io/badge/Java-3766AB?style=flat-square&logo=Java&logoColor=white)
 
 
